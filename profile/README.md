@@ -22,6 +22,19 @@ Fractional CTO leadership, hands-on delivery, and AI automation for companies th
 * Tech hiring support
   Role definition, interview process design, technical screening, and senior engineer assessment.
 
+## SharpAPI
+
+SharpAPI is our API-first platform for AI-powered automation and data processing. It exposes small, composable endpoints designed to fit into existing systems, not replace them.
+
+The platform focuses on predictable inputs and outputs, versioned APIs, and production constraints around cost, rate limits, and observability.
+
+Open source SDKs, clients, and reference integrations are maintained here:
+[https://github.com/sharpapi](https://github.com/sharpapi)
+
+Product site:
+[https://sharpapi.com](https://sharpapi.com)
+
+
 ## Trust and security
 
 SOC 2 Type II certified.
