@@ -22,6 +22,18 @@ Fractional CTO leadership, hands-on delivery, and AI automation for companies th
 * Tech hiring support
   Role definition, interview process design, technical screening, and senior engineer assessment.
 
+## Legalnaut
+
+Legalnaut is our AI workspace for legal case analysis, built for litigators, in-house legal teams, and organisations handling complex disputes.
+
+It brings everything from one dispute into a single place: documents, claims, timelines, parties and entities, related proceedings, and case numbers. The AI surfaces contradictions across documents, builds chronologies, and keeps exhibit numbering consistent, with DOCX and PDF bundle export ready for court.
+
+Available in 8 languages. Enterprise deployments run on a dedicated managed server or on the client's own infrastructure, so case data stays in-house.
+
+- Product site: [legalnaut.com](https://legalnaut.com)
+- X: [@legalnaut_com](https://x.com/legalnaut_com)
+- Contact: [contact@legalnaut.com](mailto:contact@legalnaut.com)
+
 ## SharpAPI
 
 SharpAPI is our API-first platform for AI-powered automation and data processing. It exposes small, composable endpoints designed to fit into existing systems, not replace them.
@@ -55,7 +67,7 @@ LinkedIn
 [https://www.linkedin.com/company/a2z-web-ltd/](https://www.linkedin.com/company/a2z-web-ltd/)
 
 X
-[https://x.com/a2zweb](https://x.com/a2zweb_co)
+[https://x.com/a2zweb](https://x.com/a2zweb_hq)
 
 Contact
 [contact@a2zweb.co](mailto:contact@a2zweb.co)
