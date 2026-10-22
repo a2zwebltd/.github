@@ -1,73 +1,62 @@
-# A2Z WEB
+# A2Z WEB: Fractional CTO, AI Automation and Custom Software Development
 
-Fractional CTO leadership, hands-on delivery, and AI automation for companies that need systems that ship, scale, and stay auditable.
+**A2Z WEB** is a software consultancy and product company with entities in the United Kingdom (A2Z Web Ltd.) and Singapore (A2Z Web Pte. Ltd.), serving clients across Singapore, the EU, and the Middle East. We provide fractional CTO leadership, hands-on software delivery, and AI automation for companies that need systems that ship, scale, and stay auditable.
 
-## What we do
+Founded by [Dawid Makowski](https://dawidmakowski.com), former CTO at Changi Airport Group's travel and fintech division and at BeMyGuest. SOC 2 Type II certified.
 
-* AI automation
-  Design and implementation of AI-powered workflows connected to real systems. Emphasis on control, auditability, failure handling, and human-in-the-loop execution.
+## Services
 
-* CTO as a Service
-  Fractional or interim CTO work covering strategy, architecture, delivery oversight, and investor-facing communication. Built by operators, not advisors.
+### AI automation and AI workflow development
+Design and implementation of AI-powered workflows connected to real business systems. Emphasis on control, auditability, failure handling, and human-in-the-loop execution.
 
-* Custom software development
-  Products, platforms, and APIs. Greenfield builds, legacy modernisation, and long-term ownership.
+### CTO as a Service (fractional and interim CTO)
+Fractional or interim CTO work covering technology strategy, software architecture, delivery oversight, and investor-facing communication. Built by operators, not advisors.
 
-* Technology audits and strategy
-  Independent technical audits of startups and scaleups. Architecture, code quality, delivery risk, and concrete remediation plans.
+### Custom software development
+SaaS products, platforms, and APIs. Greenfield builds, legacy system modernisation, and long-term product ownership.
 
-* Investor-grade execution audits
-  Pre-investment and post-investment audits focused on execution risk, scalability, and technical defensibility.
+### Technology audits and tech strategy
+Independent technical audits of startups and scaleups: architecture review, code quality, delivery risk, and concrete remediation plans.
 
-* Tech hiring support
-  Role definition, interview process design, technical screening, and senior engineer assessment.
+### Technical due diligence for investors
+Pre-investment and post-investment execution audits focused on execution risk, scalability, and technical defensibility.
 
-## Legalnaut
+### Tech hiring support
+Role definition, interview process design, technical screening, and senior software engineer assessment.
 
-Legalnaut is our AI workspace for legal case analysis, built for litigators, in-house legal teams, and organisations handling complex disputes.
+[Explore all A2Z WEB services](https://a2zweb.co/en/services/)
 
-It brings everything from one dispute into a single place: documents, claims, timelines, parties and entities, related proceedings, and case numbers. The AI surfaces contradictions across documents, builds chronologies, and keeps exhibit numbering consistent, with DOCX and PDF bundle export ready for court.
+## Our products
 
-Available in 8 languages. Enterprise deployments run on a dedicated managed server or on the client's own infrastructure, so case data stays in-house.
+### Legalnaut: AI legal case analysis software
+[Legalnaut](https://legalnaut.com) is an AI workspace for legal case analysis and litigation preparation, built for litigators, law firms, in-house legal teams, and organisations handling complex disputes.
 
-- Product site: [legalnaut.com](https://legalnaut.com)
-- X: [@legalnaut_com](https://x.com/legalnaut_com)
-- Contact: [contact@legalnaut.com](mailto:contact@legalnaut.com)
+- One place for every dispute: documents, claims, timelines, parties, related proceedings, and case numbers
+- AI contradiction detection across case documents
+- Automatic case chronologies and consistent exhibit numbering
+- Court-ready DOCX and PDF bundle export
+- Available in 8 languages: English, Polish, German, French, Spanish, Italian, Dutch, and Portuguese
+- Enterprise deployment on a dedicated managed server or self-hosted on your own infrastructure, so case data stays in-house
 
-## SharpAPI
+[Legalnaut website](https://legalnaut.com) · [Legalnaut on X](https://x.com/legalnaut_com) · [contact@legalnaut.com](mailto:contact@legalnaut.com)
 
-SharpAPI is our API-first platform for AI-powered automation and data processing. It exposes small, composable endpoints designed to fit into existing systems, not replace them.
+### SharpAPI: AI API platform for developers
+[SharpAPI](https://sharpapi.com) is an API-first platform for AI-powered automation and data processing. It exposes small, composable AI endpoints designed to fit into existing systems, not replace them.
 
-The platform focuses on predictable inputs and outputs, versioned APIs, and production constraints around cost, rate limits, and observability.
+- Predictable inputs and outputs with versioned APIs
+- Built for production constraints: cost control, rate limits, and observability
+- Open source SDKs, API clients, and reference integrations on [GitHub](https://github.com/sharpapi)
 
-Open source SDKs, clients, and reference integrations are maintained here:
-[https://github.com/sharpapi](https://github.com/sharpapi)
-
-Product site:
-[https://sharpapi.com](https://sharpapi.com)
-
+[SharpAPI website](https://sharpapi.com) · [SharpAPI on GitHub](https://github.com/sharpapi)
 
 ## Trust and security
 
-SOC 2 Type II certified.
-Trust portal: [https://trust.a2zweb.co](https://trust.a2zweb.co)
+A2Z WEB is **SOC 2 Type II certified**. Security documentation and reports are available on our [Trust Center](https://trust.a2zweb.co).
 
-## Links
+## Connect with A2Z WEB
 
-Website
-[https://a2zweb.co](https://a2zweb.co)
-
-Services
-[https://a2zweb.co/en/services/](https://a2zweb.co/en/services/)
-
-About
-[https://a2zweb.co/about](https://a2zweb.co/about)
-
-LinkedIn
-[https://www.linkedin.com/company/a2z-web-ltd/](https://www.linkedin.com/company/a2z-web-ltd/)
-
-X
-[https://x.com/a2zweb_hq](https://x.com/a2zweb_hq)
-
-Contact
-[contact@a2zweb.co](mailto:contact@a2zweb.co)
+- [A2Z WEB website](https://a2zweb.co)
+- [About A2Z WEB](https://a2zweb.co/about)
+- [A2Z WEB on LinkedIn](https://www.linkedin.com/company/a2z-web-ltd/)
+- [A2Z WEB on X](https://x.com/a2zweb_hq)
+- Email: [contact@a2zweb.co](mailto:contact@a2zweb.co)
