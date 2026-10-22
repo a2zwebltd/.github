@@ -67,7 +67,7 @@ LinkedIn
 [https://www.linkedin.com/company/a2z-web-ltd/](https://www.linkedin.com/company/a2z-web-ltd/)
 
 X
-[https://x.com/a2zweb](https://x.com/a2zweb_hq)
+[https://x.com/a2zweb_hq](https://x.com/a2zweb_hq)
 
 Contact
 [contact@a2zweb.co](mailto:contact@a2zweb.co)
